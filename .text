@@ -1,0 +1,20 @@
+INSERT
+    INTO owner(
+        fullname    ,
+        password    ,
+        phone_number,
+        gmail       ,
+        telegram    ,
+        github      ,
+        linked_in   ,
+        leetcode        
+    ) VALUES (
+        'Odilbek Qazokov',
+        '1001',
+        '+998942324657',
+        'odilbekqazaqov4657@gmail.com',
+        't.me',
+        'github.com',
+        'linkedin.com',
+        'leetcode.com'
+    );
